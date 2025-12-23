@@ -36,7 +36,7 @@
 
 💼 **10+ YOE**
 
-🔭 Currently working on **[Globallogic with Google]**
+🔭 Currently working on **[Globallogic]**
 
 🌱 Currently learning **AI, PlayWright**
 
@@ -54,11 +54,9 @@
 <p>
 
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
-<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Welcome"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
 <img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking"/>
-<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Available"/>
-<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Interested"/>
+<img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
 
 ---
