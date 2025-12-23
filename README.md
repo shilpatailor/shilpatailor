@@ -163,35 +163,35 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/shilpatailor/MySeleniumSessionClasses"><b>MySeleniumSessionClasses</b></a></td>
-<td>No description</td>
+<td>Selenium Java framework automation for POM design pattern</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/shilpatailor/RestAssuredTest"><b>RestAssuredTest</b></a></td>
-<td>Rest assured framework</td>
+<td>Rest assured framework - API Automation</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/shilpatailor/BDDFramework"><b>BDDFramework</b></a></td>
-<td>Free CRM project using maven, POM, page object factory, cucu...</td>
+<td>Free CRM project using Maven, POM, Page object factory, cucumber...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/shilpatailor/CucumberPOM"><b>CucumberPOM</b></a></td>
-<td>No description</td>
+<td>Cucumber BDD framework</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/shilpatailor/FreeCRMBDDFramework1"><b>FreeCRMBDDFramework1</b></a></td>
-<td>No description</td>
+<td>Selenium Automation</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
